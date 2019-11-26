@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="Path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;D:\Selenium\geckodriver;D:\Selenium\chromedriver;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Selenium\phantomjs\bin;C:\Python37\Scripts\;C:\Python37\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\JetBrains\PyCharm Community Edition 2019.2.1\bin;;;C:\Users\advok\AppData\Local\Programs\Microsoft VS Code\binC:\Program Files\Git\cmd\git.exe" />
+    </envs>
+  </component>
+</project>
