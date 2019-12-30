@@ -12,7 +12,7 @@ def connect_to_base():
     try:
         conn = pymysql.connect(host='localhost',
                                user='root',
-                               passwd='313315',
+                               passwd='******',
                                db='sexshop',
                                charset='utf8mb4',
                                cursorclass=pymysql.cursors.DictCursor)
